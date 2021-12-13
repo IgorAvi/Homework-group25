@@ -1,0 +1,87 @@
+Check there’s ‘Регистрация соискателя’ label on screen
+
+Check there’s ‘Имя’ label on screen
+
+Check there’s ‘Имя’ textbox on screen
+
+Check ‘Имя’ textbox has maxlength=256
+
+Check ‘Неверное имя’ red message appeared once numerical digits were entered
+
+Check ‘Неверное имя’ red message appears once special symbols were entered
+
+Check ‘Поле обязательно для заполнения’ red message appears once user filled it with space
+
+Check ‘Заполните это поле’ hint appeared once user left it blank
+
+Check there’s ‘Фамилия’ label on screen
+
+Check there’s ‘Фамилия’ textbox on screen
+
+Check ‘Фамилия’ textbox has maxlength=256
+
+Check ‘Неверное Фамилия’ red message appeared once numerical digits were entered
+
+Check ‘Неверное Фамилия’ red message appeared once special symbols were entered
+
+Check ‘Поле обязательно для заполнения’ red message appears once user filled it with space
+
+Check ‘Заполните это поле’ hint appeared once user left it blank
+
+Check there’s ‘Email или телефон’ label on screen
+
+Check ‘Email или телефон’ textbox is valid for email format
+
+Check ‘Email или телефон’ textbox is valid for phone format
+
+Check ‘Email или телефон’ textbox has maxlength=256
+
+Check ‘Пожалуйста, укажите email или телефон’ red message appeared once user filled data <> phone number or email format
+
+Check ‘Неверное Фамилия’ red message appeared once special symbols were entered
+
+Check ‘Поле обязательно для заполнения’ red message appears once user filled it with space
+
+Check ‘Заполните это поле’ hint appeared once user left it blank
+
+Check ‘Указанный логин занят другим пользователем. Пожалуйста, введите другой email или телефон или войдите’ once user entered existing email
+
+Check ‘Указанный логин занят другим пользователем. Пожалуйста, введите другой email или телефон или войдите’ once user entered existing phone number
+
+Check there’s reCAPTCHA on screen'
+
+Check there’s ‘Пожалуйста, подтвердите, что вы не робот’ message once user skipped reCAPTCHA
+
+Check there’s [Зарегистрироваться] button on screen
+
+Check there’s [Уже зарегистрированы?] label on screen
+
+Check there’s [Войти] link on screen
+
+Check [Войти] link tends to login screen
+
+Check there’s ‘Быстрое создание резюме через соцсеть’ label on screen
+
+Check there’s [mail.ru] icon on screen
+
+Check there’s [OK] icon on screen
+
+Check there’s [FB] icon on screen
+
+Check there’s [VK] icon on screen
+
+Check there’s [Linkedin] icon on screen
+
+Check there’s [Google] icon on screen
+
+Check there’s [mail.ru] icon tends on Mail.ru authorization screen
+
+Check there’s [OK] icon tends on OK authorization screen
+
+Check there’s [FB] icon tends on FB authorization screen
+
+Check there’s [VK] icon tends on VK authorization screen
+
+Check there’s [Linkedin] icon tends on Linkedin authorization screen
+
+Check there’s [Google] icon tends on Google authorization screen
